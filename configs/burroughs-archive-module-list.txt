@@ -1,0 +1,2 @@
+islandora_managed_access
+islandora_solution_pack_genetic_edition
