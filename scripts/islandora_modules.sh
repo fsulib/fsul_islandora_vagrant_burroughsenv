@@ -87,7 +87,7 @@ drush -y -u 1 en xml_forms xml_form_builder xml_schema_api xml_form_elements xml
 drush -y -u 1 en islandora_fits islandora_ocr islandora_oai islandora_marcxml islandora_simple_workflow islandora_xacml_api islandora_xacml_editor islandora_xmlsitemap colorbox islandora_internet_archive_bookreader islandora_bagit islandora_batch_report islandora_usage_stats islandora_form_fieldpanel islandora_altmetrics islandora_populator islandora_newspaper_batch 
 
 # Enable burroughs archive stuff
-drush -y -u 1 en islandora_managed_access islandora_genetic_edition
+drush -y -u 1 en islandora_managed_access islandora_comparative_edition
 
 cd "$DRUPAL_HOME"/sites/all/modules || exit
 
